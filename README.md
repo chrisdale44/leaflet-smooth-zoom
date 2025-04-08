@@ -1,6 +1,6 @@
 # leaflet-smooth-zoom
 
-Add smooth zooming to LeafletJS, rather than default staggered zooming
+Add smooth zooming to LeafletJS by overriding the default staggered zoom
 
 ## Installation
 
